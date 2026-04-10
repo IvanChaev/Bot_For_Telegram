@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+chat_history.json
+allowed_users.json
+global_settings.json
+bot.log
+warp_monitor.log
+.DS_Store
+venv/
+env/
